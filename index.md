@@ -1,7 +1,7 @@
 <html>
   <head>
     <script>
-      alert(document.origin);
+      alert(window.origin);
     </script>
   </head>
 </html>
